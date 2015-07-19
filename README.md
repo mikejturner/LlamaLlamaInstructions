@@ -22,7 +22,7 @@ Players are shepherds that must bring together their flock of llamas to graze. S
 
 ## Goal
 
-At the end of each round, lead the flock of llamas back to your corral with the smallest number of fleas as possible.
+At the end of each round, lead the flock of llamas back to your corral with the smallest number of fleas possible.
 
 ## Contents
 
