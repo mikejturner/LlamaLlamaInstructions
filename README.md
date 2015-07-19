@@ -5,7 +5,7 @@ Created by Bruno Cathala.
 Edited by Hurricane under the name MOW.
 Translation by Mike Turner.
 
-For 2 to 8 Shepherds (players) from 7 to 9999 years.
+For 2 to 8 players from 7 to 9999 years.
 
 Contact:
 
