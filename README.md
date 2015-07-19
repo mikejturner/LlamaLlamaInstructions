@@ -28,10 +28,10 @@ At the end of each round, lead the flock of llamas back to your corral with the 
 
 Each set contains 50 cards. The total number of fleas is 84.
 
-* 15 llama cards numbered from 1 to 15 (without fleas).
-* 13 llama cards numbered from 2 to 14 (with 1 flea).
-* 11 llama cards numbered from 3 to 13 (with 2 fleas).
-* 3 llama cards numbered from 7 to 9 (with 3 fleas).
+* 15 llama cards numbered from 1 to 15 (without fleas, green background).
+* 13 llama cards numbered from 2 to 14 (with 1 flea, yellow background).
+* 11 llama cards numbered from 3 to 13 (with 2 fleas, orange background).
+* 3 llama cards numbered from 7 to 9 (with 3 fleas, purple background).
 * 8 special llama cards (with a superpower but also with 5 fleas!).
 
 In addition:
