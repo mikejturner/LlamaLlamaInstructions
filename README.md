@@ -68,7 +68,7 @@ This llama can only be placed above a number 5 llama in the flock. At the end of
 
 ## Don't Forget!
 
-Playing a special llama (on with 5 fleas) allows the shepherd to change the direction of the game if they want to. Turn the arrow card to point in the desired direction and that neighbor then plays the next turn.
+Playing a special llama (one with 5 fleas) allows the shepherd to change the direction of the game if they want to. Turn the arrow card to point in the desired direction and that neighbor then plays the next turn.
 
 ## Leading the flock to pasture
 
