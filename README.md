@@ -44,7 +44,7 @@ In addition:
 
 Every shepherd receives 5 cards. If there are more than 5 players each receives only 4 cards. The remaining cards are left in a pile face down in the center of the table. The shepherd that starts the game puts the arrow card in front of himself/herself pointing to their neighbor to the left.
 
-Place a card from your hand into the center of the table and take a card from the pile. Then taking turns, each shepherd adds a card with a number larger or smaller than the cards already played. Don't forget to take a new card from the pile after you have placed on down.
+Place a card from your hand into the center of the table and take a card from the pile. Then taking turns, each shepherd adds a card with a number larger or smaller than the cards already played. Don't forget to take a new card from the pile after you have placed one down.
 
 ## Special Cards
 
